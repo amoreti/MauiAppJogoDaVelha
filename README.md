@@ -27,7 +27,4 @@ A lógica principal está no arquivo .xaml.cs:
  - Zerar: reinicia o tabuleiro e retorna a vez para “X”.
  - Os botões são armazenados em uma lista para facilitar verificações e reinicialização.
 
-🎥 Vídeo Explicativo (YouTube)
-Aqui você pode inserir o link do vídeo explicando o projeto:
-
-👉 Vídeo no YouTube:  https://youtu.be/nPSKOiPSb4g
+🎥 Vídeo Explicativo (YouTube):  https://youtu.be/nPSKOiPSb4g
