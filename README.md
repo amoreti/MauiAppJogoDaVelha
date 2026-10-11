@@ -13,16 +13,11 @@ O objetivo é demonstrar a construção de interfaces com XAML, manipulação de
 
 🖼️ Interface
 A interface foi construída em XAML utilizando:
-
-LinearGradientBrush para o fundo em tons claros de rosa
-
-Grid 3x3 representando o tabuleiro
-
-Label centralizado para o título
-
-Estilos globais para botões, com bordas e fonte roxa
-
-Layout simples, limpo e visualmente agradável
+ - LinearGradientBrush para o fundo em tons claros de rosa
+ - Grid 3x3 representando o tabuleiro
+ - Label centralizado para o título
+ - Estilos globais para botões, com bordas e fonte roxa
+ - Layout simples, limpo e visualmente agradável
 
 🧠 Lógica do Jogo
 A lógica principal está no arquivo .xaml.cs:
